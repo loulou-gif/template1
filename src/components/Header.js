@@ -3,7 +3,7 @@ import '../assets/css/Styles.css'
 const Header = () => {
    return (
         <header className="header border text-white">
-            <div className=' w-5/12 min-w-96 ml-40 mt-28'>
+            <div className='component border min-w-96 ml-40 mt-28'>
                 <h1 className=' font-bold   text-2xl '>AKWABA A LA CAN DE L'HOSPITALITE</h1>
                 <div className='w-8/12 h-2'>
                     <div className='w-6/12 h-1 bg-white' ></div>
