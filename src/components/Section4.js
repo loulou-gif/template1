@@ -1,4 +1,5 @@
-import can1 from "../assets/img/can1.jpg"
+import can1 from "../assets/img/can4.jpg"
+import can2 from "../assets/img/can5.jpg"
 import "../assets/css/Styles.css"
 const Section4 =() => {
     return(
@@ -15,7 +16,7 @@ const Section4 =() => {
                 <div className="w-11/12 ml-10 h-5 flex justify-end mb-28">
                     <div className="w-64 bg-white h-5 "></div>
                 </div>
-                <img className="pictures w-11/12 ml-10  rounded-lg" alt="" src={can1} />
+                <img className="pictures w-11/12 ml-10  rounded-lg" alt="" src={can2} />
             </div>
 
         </section>
