@@ -14,16 +14,16 @@ const Section1 = () =>{
                     </section>
                 </div>
             </div>
-            <div className='flex justify-center -mt-20'>
-                <p className='w-4/12 mr text-2xl mt-64'>
-                    Le président ivoirien a misé des millions pour la mise en place de différents stade ainsi que leur rénovation.  mais pas que, une préparation incroyable pour fournir les condition adéquate a nos éléphant.<br/> <br/>
-                    la venu de plusieurs journaliste et du système qui a tant fait  ses preuves ces dernière année. Je parle bien de la VAR. Vivez donc la CAN à plein poumon.<br/> <br/>
+            <div className='flex justify-center  pb-28 -mt-20'>
+                <p className='w-4/12 mr text-2xl mt-80'>
+                Le président ivoirien a investi des millions dans la construction et la rénovation de plusieurs stades, mais ce n'est pas tout. Une préparation exceptionnelle a été entreprise pour offrir des conditions optimales à nos éléphants.<br/> <br/>
+                De nombreux journalistes sont présents, ainsi que le système qui a fait ses preuves ces dernières années, en particulier la VAR. Profitez pleinement de la Coupe d'Afrique des Nations.<br/> <br/>
 
-                    <button className='border h-10 w-56 border-black text-black'>LIRE LA SUITE</button>
+                    <button className='border h-10 w-56 border-black text-black hover:bg-black hover:text-white duration-300'>LIRE LA SUITE</button>
                 </p>
-                <div className='w-4/12  -ml-20'>
-                    <div className='h-64 w-80 bg-orange-300'></div>
-                    <img className='ml-36 -mt-28 h-96' alt='img2' src={can} width="600px"/>
+                <div className='w-5/12  -ml-20'>
+                    <div className='h-72 w-80 bg-orange-300'></div>
+                    <img className='ml-28 -mt-36 h-full' alt='img2' src={can} width="730px"/>
                 </div>
             </div>
         </section>
