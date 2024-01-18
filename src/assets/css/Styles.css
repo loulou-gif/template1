@@ -5,3 +5,8 @@ header{
     background-size: cover;
     background-position: center;
 }
+.square{
+    height: 50px;
+    width: 10px;
+    background-color: gray;
+}
