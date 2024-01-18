@@ -32,7 +32,6 @@ const Section3 = () =>{
                 </p>
             </div>
         </section>
-        // ml-28 mt-36 h-full  width="730px"
     )
 }
 
