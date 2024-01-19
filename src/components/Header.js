@@ -4,7 +4,7 @@ const Header = () => {
    return (
         <header className="header border text-white">
             <div className='component min-w-96 ml-40 mt-28'>
-                <h1 className=' font-bold   text-2xl '>AKWABA A LA CAN DE L'HOSPITALITE</h1>
+                <h1 className=' font-extrabold   text-2xl '>AKWABA A LA CAN DE L'HOSPITALITE</h1>
                 <div className='w-8/12 h-2'>
                     <div className='w-6/12 h-1 bg-white' ></div>
                 </div>

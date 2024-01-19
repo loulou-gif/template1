@@ -12,7 +12,7 @@ const Section3 = () =>{
                         </div>                        
                     </section>
                 </div>
-                <p className=" w-3/12 mr-14 text-end ml-5 min-w-96 pl-5 text-6xl">La CAN c'est chez nous!</p>                
+                <p className=" w-3/12 mr-14 text-end ml-5 min-w-96 pl-5 font-extrabold text-6xl">La CAN c'est chez nous!</p>                
             </div>
             <div className='flex justify-center   pb-28 mt-20'>
                 

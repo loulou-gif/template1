@@ -5,7 +5,7 @@ const Section4 =() => {
     return(
         <section className="section3 h-full pb-10 w-full flex justify-center bg-orange-400 mt-36">
             <div className="w-5/12  mt-5 ">
-                <h2 className="mt-5 text-white  w-6/12 ml-10 text-5xl font-semibold" >TOUS AVEC LES ELEPHANTS</h2>
+                <h2 className="mt-5 text-white  w-6/12 ml-10 text-5xl font-extrabold" >TOUS AVEC LES ELEPHANTS</h2>
                 <p className="mt-5 text-white  w-11/12 ml-10 text-xl ">Le président ivoirien a investi des millions dans la construction et la rénovation de plusieurs stades, mais ce n'est pas tout. Une préparation exceptionnelle a été entreprise pour offrir des conditions optimales à nos éléphants.<br/>
                 Le président ivoirien a investi des millions dans la construction et la rénovation de plusieurs stades, mais ce n'est pas tout. Une préparation exceptionnelle a été entreprise pour offrir des conditions optimales à nos éléphants.</p>
                 <img className="pictures ml-10 h-4/12 mt-5 rounded-lg" alt="" src={can1} />

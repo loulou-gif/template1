@@ -4,7 +4,7 @@ const Section1 = () =>{
     return(
         <section className="Section1 mt-32">
             <div className="flex justify-center">
-                <p className=" w-3/12 mr-14  min-w-96 pl-5  text-6xl">La Côte d'Ivoire impressionne par son organisation lors de la Coupe d'Afrique des Nations, à la manière d'une Coupe du Monde.</p>
+                <p className=" w-3/12 mr-14  min-w-96 pl-5 font-extrabold  text-6xl">La Côte d'Ivoire impressionne par son organisation lors de la Coupe d'Afrique des Nations, à la manière d'une Coupe du Monde.</p>
                 <div className=" w-5/12 pb-10 ml-10 text-xl h-40">
                     <p className=" h-32 ">Le président ivoirien a misé des millions pour la mise en place de différents stade ainsi que leur rénovation. mais pas que, une préparation incroyable pour fournir les condition adéquate a nos éléphant.
                     la venu de plusieurs journaliste et du système qui a tant fait  ses preuves ces dernières années. Je parle bien de la VAR. Vivez donc la CAN à plein poumon.</p>
